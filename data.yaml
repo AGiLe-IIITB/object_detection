@@ -1,0 +1,6 @@
+names:
+- Building
+nc: 1
+path: /home/arismita/ML/yolov5_training/building_detection
+train: /home/arismita/ML/yolov5_training/building_detection/train
+val: /home/arismita/ML/yolov5_training/building_detection/valid
