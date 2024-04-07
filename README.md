@@ -1,2 +1,2 @@
-# object_detection
-it detects objects with the help of yolov5
+# Oject Detection
+It detects objects with the help of yolov5
